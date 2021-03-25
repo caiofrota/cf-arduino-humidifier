@@ -49,7 +49,7 @@ What things you need to install the software and how to install them
 
 ### Scheme
 
-![Scheme](https://github.com/caiofrota/cf-arduino-humidifier/blob/main/img/scheme.jpg)
+![Scheme](https://github.com/caiofrota/cf-arduino-humidifier/blob/main/img/cf-humidifier-nodemcu.jpg)
 
 ### For more info about usage
 
