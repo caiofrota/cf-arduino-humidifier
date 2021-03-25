@@ -14,6 +14,8 @@ IoT - Configurable humidifier using ESP8266 (ESP01 or NodeMCU 1.0 ESP-12E), DHT 
 
 Version 1.0.0
 
+![CF Humidifier](https://github.com/caiofrota/cf-arduino-humidifier/blob/main/img/final.gif)
+
 ## Quick Start
 
 ### Prerequisites
@@ -47,9 +49,28 @@ What things you need to install the software and how to install them
 - Select your board (Tools > Board > ESP8266 Boards).
 - Upload (Sketch > Upload).
 
+### Components
+
+* ESP8266 Wi-Fi Module NodeMCU
+* DHT11 Module OR DHT22 Module
+* Rotary Encoder Module 5 pin
+* OLED Display Module 128x64
+* Mosfet Module 0-24v
+* DC-DC Step Down: Input 24v Output 0-24v
+* Ultrasocnic Mist Maker Fogger 24v with Power Adapter
+* Cooling Fan 40 mm 12v
+* Transistor BC337-25
+* Resistor 1K
+* Enclosure Box
+* Plastic Food Stogare Container
+* Jump Wires
+  * 12 Female to Female
+  * 6 Y 1-Female to 2-Female
+  * 2 Y 1-Male to 2-Female
+
 ### Scheme
 
-![Scheme](https://github.com/caiofrota/cf-arduino-humidifier/blob/main/img/cf-humidifier-nodemcu.jpg)
+![Scheme](https://github.com/caiofrota/cf-arduino-humidifier/blob/main/img/scheme.jpg)
 
 ### For more info about usage
 
