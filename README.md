@@ -47,6 +47,10 @@ What things you need to install the software and how to install them
 - Select your board (Tools > Board > ESP8266 Boards).
 - Upload (Sketch > Upload).
 
+### Scheme
+
+![Scheme](https://github.com/caiofrota/cf-arduino-humidifier/blob/main/img/scheme.jpg)
+
 ### For more info about usage
 
 - Please read our [Wiki](https://github.com/caiofrota/cf-arduino-humidifier/wiki).
