@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Binaries
+*.bin
+
+# Log files
+*.log
